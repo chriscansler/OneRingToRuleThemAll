@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonsterPatterns", "MonsterP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NavigatingOperandCity", "NavigatingOperandCity\NavigatingOperandCity.csproj", "{EA4AE1F2-3C56-4BEE-B672-449293196934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryExpressionBasics", "QueryExpressionBasics\QueryExpressionBasics.csproj", "{48833BDB-B963-4CC8-88F6-263739710B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheThreeLenses", "TheThreeLenses\TheThreeLenses.csproj", "{D57C22C4-16B5-455E-923B-B36B57575A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{EA4AE1F2-3C56-4BEE-B672-449293196934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA4AE1F2-3C56-4BEE-B672-449293196934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA4AE1F2-3C56-4BEE-B672-449293196934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48833BDB-B963-4CC8-88F6-263739710B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48833BDB-B963-4CC8-88F6-263739710B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48833BDB-B963-4CC8-88F6-263739710B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48833BDB-B963-4CC8-88F6-263739710B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57C22C4-16B5-455E-923B-B36B57575A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57C22C4-16B5-455E-923B-B36B57575A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57C22C4-16B5-455E-923B-B36B57575A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57C22C4-16B5-455E-923B-B36B57575A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
